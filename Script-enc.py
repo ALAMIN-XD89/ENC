@@ -1,8 +1,8 @@
 # python3
-# Author  : Hamid Meer
-# Github  : https://github.com/Hamii-kinh-06
+# Author  : Alamin Hossain Robin
+# Github  : https://github.com/atalamin
 # Encrypt(obfuscate) or decrypt bash/shell script or compile python script
-# Decode By RED-DEMON-ANNOS
+# Decode By Script-enc
 import os, base64, sys, time
 from pprint import pformat
 alphabet = [
